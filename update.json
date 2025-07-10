@@ -15,9 +15,9 @@
     "torrent": "https://github.com/Toonny1/AtualizadorTheSims4/raw/refs/heads/main/1.116.202.1030.torrent",
     "extract": "[KS] The.Sims.4 Update 1.116.202.1030.zip"
   },
-  "1.116.xx": {
-    "torrent": "https://link.com/update_1.116.xx.torrent",
-    "extract": "update_xx.zip"
+  "1.116.223.1030": {
+    "torrent": "https://github.com/Toonny1/AtualizadorTheSims4/raw/refs/heads/main/1.116.223.1030.torrent",
+    "extract": "[KS] The.Sims.4 Update 1.116.223.1030.zip"
   },
   "patches": {
     "crack": {
