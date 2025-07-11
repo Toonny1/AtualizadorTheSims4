@@ -1,34 +1,13 @@
 {
+  "versao_atual": "1.116.223.1030",
   "full_game_bundle": [
     {
-      "torrent": "https://github.com/Toonny1/AtualizadorTheSims4/raw/refs/heads/main/ts4-v1.114.torrent",
-      "extract": "[KS] The Sims 4 - Full Edition v1.114.rar"
-    },
-    {
-      "torrent": "https://github.com/Toonny1/AtualizadorTheSims4/raw/refs/heads/main/1.115.216.1030.torrent",
-      "extract": "[KS] The.Sims.4 Update 1.115.216.1030.zip"
-    },
-    {
-      "torrent": "https://github.com/Toonny1/AtualizadorTheSims4/raw/refs/heads/main/1.115.253.1020.torrent",
-      "extract": "[KS] The.Sims.4 Update 1.115.253.1020.zip"
-    },
-    {
-      "torrent": "https://github.com/Toonny1/AtualizadorTheSims4/raw/refs/heads/main/1.116.202.1030.torrent",
-      "extract": "[KS] The.Sims.4 Update 1.116.202.1030.zip"
+      "torrent": "https://github.com/Toonny1/AtualizadorTheSims4/raw/refs/heads/main/%5BKS%5D%20The%20Sims%204%20-%20Full%20Edition%20v1.116.torrent",
+      "extract": "[KS] The Sims 4 - Full Edition v1.116.rar"
     }
   ],
   "latest_update": {
-    "torrent": "https://github.com/Toonny1/AtualizadorTheSims4/raw/refs/heads/main/1.116.223.1030.torrent",
-    "extract": "[KS] The.Sims.4 Update 1.116.223.1030.zip"
-  },
-  "patches": {
-    "crack": {
-      "link": "https://pixeldrain.com/u/EikEpCGg",
-      "extract": "[KS] KS4.Crack.Update.1.116.223.1030.zip"
-    },
-    "traducao": {
-      "link": "https://pixeldrain.com/u/Lni3PqgL",
-      "extract": "[KS] KS4.Tradução.Update.1.116.223.1030.zip"
-    }
+    "torrent": "https://github.com/Toonny1/AtualizadorTheSims4/raw/refs/heads/main/%5BKS%5D%20The%20Sims%204%20–%20Enchanted%20by%20Nature.torrent",
+    "extract": "[KS] The Sims 4 – Enchanted by Nature.zip"
   }
 }
