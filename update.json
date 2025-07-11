@@ -1,21 +1,23 @@
 {
-  "full_game": {
-    "torrent": "https://github.com/Toonny1/AtualizadorTheSims4/raw/refs/heads/main/ts4-v1.114.torrent",
-    "extract": "[KS] The Sims 4 - Full Edition v1.114.rar"
-  },
-  "1.115.216.1030": {
-    "torrent": "https://github.com/Toonny1/AtualizadorTheSims4/raw/refs/heads/main/1.115.216.1030.torrent",
-    "extract": "[KS] The.Sims.4 Update 1.115.216.1030.zip"
-  },
-  "1.115.253.1020": {
-    "torrent": "https://github.com/Toonny1/AtualizadorTheSims4/raw/refs/heads/main/1.115.253.1020.torrent",
-    "extract": "[KS] The.Sims.4 Update 1.115.253.1020.zip"
-  },
-  "1.116.202.1030": {
-    "torrent": "https://github.com/Toonny1/AtualizadorTheSims4/raw/refs/heads/main/1.116.202.1030.torrent",
-    "extract": "[KS] The.Sims.4 Update 1.116.202.1030.zip"
-  },
-  "1.116.223.1030": {
+  "full_game_bundle": [
+    {
+      "torrent": "https://github.com/Toonny1/AtualizadorTheSims4/raw/refs/heads/main/ts4-v1.114.torrent",
+      "extract": "[KS] The Sims 4 - Full Edition v1.114.rar"
+    },
+    {
+      "torrent": "https://github.com/Toonny1/AtualizadorTheSims4/raw/refs/heads/main/1.115.216.1030.torrent",
+      "extract": "[KS] The.Sims.4 Update 1.115.216.1030.zip"
+    },
+    {
+      "torrent": "https://github.com/Toonny1/AtualizadorTheSims4/raw/refs/heads/main/1.115.253.1020.torrent",
+      "extract": "[KS] The.Sims.4 Update 1.115.253.1020.zip"
+    },
+    {
+      "torrent": "https://github.com/Toonny1/AtualizadorTheSims4/raw/refs/heads/main/1.116.202.1030.torrent",
+      "extract": "[KS] The.Sims.4 Update 1.116.202.1030.zip"
+    }
+  ],
+  "latest_update": {
     "torrent": "https://github.com/Toonny1/AtualizadorTheSims4/raw/refs/heads/main/1.116.223.1030.torrent",
     "extract": "[KS] The.Sims.4 Update 1.116.223.1030.zip"
   },
